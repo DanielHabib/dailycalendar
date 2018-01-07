@@ -5,6 +5,10 @@
 * It could have a daily video feature. (This could be its own app)
  * ex we could prompt the user to leave a video message for themself in a year("What message do you want to give to yourself 1 year from now")
  
+## Mockups
+<img src="rasberrypimockup.png" width="150">
+ 
+ 
 ## Expected Components
  * Backend
   * Definitely going to need an API
