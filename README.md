@@ -1,4 +1,5 @@
 # Daily Calendar
+Trello Board: https://trello.com/b/7TSZaJhD/daily-calendarname-pending
 ## Description
 * It will have a feature like the github green squares, letting you measure consistancy
 * It will be tangible. (There will be a hardware component to it)
