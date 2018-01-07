@@ -17,7 +17,7 @@
   * App
   * Website (Probably not)
  
-## MVP - Minimun Viable Product
+## MVP - Minimum Viable Product
 ### Hypothesis
 1. If I have the ability to easily keep track and analyze my consistency in working towards something, then I will be more productive
 2. If I find that I'm being more productive as a result of using this product, then I will use it more.
