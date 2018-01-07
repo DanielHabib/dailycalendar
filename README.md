@@ -36,4 +36,4 @@
 # Roadmap (Order in which we are going to build out every piece)
 * Build out an API (Python / Hack)
 * Build a javascript (React) app that can be run on a rasberry pi
-* Build a mobile app
+* Build a mobile app (ios first, then android)
