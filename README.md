@@ -8,6 +8,7 @@ Trello Board: https://trello.com/b/7TSZaJhD/daily-calendarname-pending
  
 ## Mockups
 <img src="rasberrypimockup.png" width="150">
+
 ## Data model
 <img src="DataModelV1.png" width="150">
  
