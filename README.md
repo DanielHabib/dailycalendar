@@ -19,7 +19,6 @@
 2. If I find that I'm being more productive as a result of using this product, then I will use it more.
 
 ### Goals
-Goals
 * The ability to easily mark down how well they did that day
 * We need to give people the ability to easily view their progression
 
@@ -33,3 +32,8 @@ Goals
 * Is anyone interested in the product
 * Am I able to use it easily?
 * Would it become useful if it had more features? (What features excite me)
+
+# Roadmap (Order in which we are going to build out every piece)
+* Build out an API (Python / Hack)
+* Build a javascript (React) app that can be run on a rasberry pi
+* Build a mobile app
